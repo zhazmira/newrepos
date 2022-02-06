@@ -1,0 +1,118 @@
+[29-Dec-2020 10:34:16 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:34:16 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:34:16 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:34:41 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:34:41 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:34:41 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:04 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:04 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:04 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:21 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:21 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:35:21 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:38:08 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:38:08 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:38:08 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:39:05 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:39:05 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:39:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:28 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:28 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:28 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:53 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:53 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:47:53 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:12 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:12 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:12 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:57 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:57 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:52:57 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:59:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:59:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 10:59:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 11:04:25 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 11:04:25 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 11:04:25 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:01 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:01 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:17 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:17 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:47:17 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:24 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:24 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[29-Dec-2020 14:56:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:15:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:15:45 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:15:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:18:50 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:18:50 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:18:50 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:24:08 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:24:08 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:24:08 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:46:56 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:46:56 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:46:56 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:47:42 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:47:42 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 02:47:42 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 08:42:24 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 08:42:24 America/New_York] PHP Warning:  require(phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/prosolin/public_html/sendmail.php on line 5
+[30-Dec-2020 08:42:24 America/New_York] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/Exception.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/prosolin/public_html/sendmail.php on line 5
+[03-Jan-2021 05:55:42 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Не отправлено из-за неправильного формата email-адреса:  (From):  in /home/prosolin/public_html/phpmailer/src/PHPMailer.php:1255
+Stack trace:
+#0 /home/prosolin/public_html/sendmail.php(14): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/prosolin/public_html/phpmailer/src/PHPMailer.php on line 1255
+[12-Jan-2021 06:35:44 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/prosolin/public_html/index.php on line 528
+[12-Jan-2021 06:35:47 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/prosolin/public_html/index.php on line 528
+[12-Jan-2021 06:35:56 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/prosolin/public_html/index.php on line 528
+[12-Jan-2021 06:36:21 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/prosolin/public_html/index.php on line 528
+[12-Jan-2021 07:37:54 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 07:43:33 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 07:43:41 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 07:44:34 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 07:45:33 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:01:39 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:19:15 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:19:22 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:30:26 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:30:26 America/New_York] PHP Notice:  Undefined index: socials in /home/prosolin/public_html/index.php on line 20
+[12-Jan-2021 08:30:26 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:38:30 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:38:30 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:38:57 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:38:57 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:41:17 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:41:17 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:41:17 America/New_York] PHP Notice:  Undefined index: task in /home/prosolin/public_html/index.php on line 22
+[12-Jan-2021 08:43:02 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:43:02 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:43:02 America/New_York] PHP Notice:  Undefined index: task in /home/prosolin/public_html/index.php on line 22
+[12-Jan-2021 08:43:43 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:43:43 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:45:54 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:45:54 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:46:19 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:46:19 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:46:30 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:46:30 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:46:42 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:46:42 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:47:03 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:47:03 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:47:59 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:47:59 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:50:14 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:50:14 America/New_York] PHP Notice:  Undefined index: service in /home/prosolin/public_html/index.php on line 21
+[12-Jan-2021 08:51:31 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:51:54 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:57:07 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:58:24 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 08:58:55 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
+[12-Jan-2021 09:00:24 America/New_York] PHP Notice:  Undefined index: image in /home/prosolin/public_html/index.php on line 19
